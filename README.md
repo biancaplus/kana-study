@@ -29,10 +29,8 @@ npm install
 
 <img src="./assets/images/ios_1.png" width="300" alt="清音">
 
-![清音](./assets/images/ios_1.png)
+<img src="./assets/images/ios_2.png" width="300" alt="浊音">
 
-![浊音](./assets/images/ios_2.png)
+<img src="./assets/images/ios_3.png" width="300" alt="拗音">
 
-![拗音](./assets/images/ios_3.png)
-
-![练习](./assets/images/ios_4.png)
+<img src="./assets/images/ios_4.png" width="300" alt="练习">
