@@ -6,13 +6,13 @@
 
 - **跨平台支持** - 一套代码兼容 iOS 和 Android
 - **Expo 集成** - 开箱即用
-- **严格类型** - TypeScript 类型检查（可选）
+- **严格类型** - TypeScript 类型检查
 - **假名练习** - 展示假名，选择读音卡片
 
 ## 🚀 快速开始
 
 - npx expo
--
+- 启动项目后，在手机端使用 expo go 扫码即可体验
 
 ### 前置要求
 
@@ -29,8 +29,8 @@ npm install
 
 ![清音](./assets/images/ios_1.png)
 
-![清音](./assets/images/ios_2.png)
+![浊音](./assets/images/ios_2.png)
 
-![清音](./assets/images/ios_3.png)
+![拗音](./assets/images/ios_3.png)
 
-![清音](./assets/images/ios_4.png)
+![练习](./assets/images/ios_4.png)
