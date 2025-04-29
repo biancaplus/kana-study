@@ -1,50 +1,36 @@
-# Welcome to your Expo app 👋
+# Kana-test
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+> _这是一个基于 Expo 的跨平台移动应用，支持 iOS/Android 双端运行_
 
-## Get started
+## 📱 功能特性
 
-1. Install dependencies
+- **跨平台支持** - 一套代码兼容 iOS 和 Android
+- **Expo 集成** - 开箱即用
+- **严格类型** - TypeScript 类型检查（可选）
+- **假名练习** - 展示假名，选择读音卡片
 
-   ```bash
-   npm install
-   ```
+## 🚀 快速开始
 
-2. Start the app
+- npx expo
+-
 
-   ```bash
-    npx expo start
-   ```
+### 前置要求
 
-In the output, you'll find options to open the app in a
+- Node.js `>=18.0.0`
+- Android 和 iOS 上安装 expo go（ios 可以商城搜;安卓在谷歌商店搜，搜不到就直接下载 apk 进行安装在 https://expo.dev/go 上选 Android Emulator → install → Download）
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
+### 安装依赖
 
 ```bash
-npm run reset-project
+npm install
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+### ios 中展示
 
-## Learn more
+![清音](./assets/images/ios_1.png)
 
-To learn more about developing your project with Expo, look at the following resources:
+![清音](./assets/images/ios_2.png)
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+![清音](./assets/images/ios_3.png)
 
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+![清音](./assets/images/ios_4.png)
