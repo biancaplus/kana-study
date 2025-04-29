@@ -27,6 +27,8 @@ npm install
 
 ### ios 中展示
 
+<img src="./assets/images/ios_1.png" width="300" alt="清音">
+
 ![清音](./assets/images/ios_1.png)
 
 ![浊音](./assets/images/ios_2.png)
